@@ -5,4 +5,3 @@
 
 Учебный проект для комплексного изучения Git.
 Draft documentation
-Incorrect project description
